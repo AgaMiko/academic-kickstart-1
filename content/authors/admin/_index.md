@@ -18,10 +18,11 @@ organizations:
   url: "https://pg.edu.pl/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 
 
 interests:
 - Deep learning
+- Python
 - Pytorch
 
 
@@ -73,5 +74,5 @@ user_groups:
 - Visitors
 ---
 
-**Arkadiusz Kwasigroch** is a assistant researcher in the field of deep learning at the Gdańsk University of Technology. His research interests include deep learning, especialy neural architecture search and skin lesion classification. 
+**Arkadiusz Kwasigroch** is an assistant researcher in the field of deep learning at the Gdańsk University of Technology. His research interests include deep learning, especialy neural architecture search and skin lesion classification. 
 
