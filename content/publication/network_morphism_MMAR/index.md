@@ -6,6 +6,9 @@ abstract: "The paper presents the results of the research on neural architecture
 publication: In *24th International Conference on Methods and Models in Automation and Robotics (MMAR)*
 authors: ["**A. Kwasigroch**", "M. Grochowski", "M. Mikołajczyk"]
 links:
+- name: URL
+  url:  https://ieeexplore.ieee.org/abstract/document/8864624
+  
 - name: Repo
   url: https://github.com/akwasigroch/NAS_network_morphism
 share: false

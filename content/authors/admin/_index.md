@@ -28,15 +28,15 @@ interests:
 
 education:
   courses:
-  - course: PhD in Deep learning
+  - course: Ph.D. in Deep learning
     institution: Gdańsk University of Technology
     year: currently
   - course: MEng in Automatics and Robotics
     institution: Gdańsk University of Technology
-    year: 2018
+    year: 2017
   - course: BSc in Automatics and Robotics
     institution: Gdańsk University of Technology
-    year: 2017
+    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -58,6 +58,10 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/arkadiusz-kwasigroch-33089312b
+- icon: researchgate
+  icon_pack: fab
+  link: https://www.researchgate.net/profile/Arkadiusz_Kwasigroch
+  
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
