@@ -23,7 +23,7 @@ bio:
 interests:
 - Deep learning
 - Python
-- Pytorch
+- Computer vision
 
 
 education:
@@ -78,5 +78,5 @@ user_groups:
 - Visitors
 ---
 
-**Arkadiusz Kwasigroch** is an assistant researcher in the field of deep learning at the Gdańsk University of Technology. His research interests include deep learning, especialy neural architecture search and skin lesion classification. 
+**Arkadiusz Kwasigroch** is an assistant researcher in the field of deep learning at the Gdańsk University of Technology. His research interests include the use of deep learning in the field of computer vision.  I conduct research on neural architecture search and skin lesion classification. 
 
