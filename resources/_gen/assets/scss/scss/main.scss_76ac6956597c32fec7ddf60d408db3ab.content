@@ -7032,13 +7032,13 @@ a.text-dark:hover, a.text-dark:focus {
  **************************************************/
 html {
   font-family: Roboto, sans-serif;
-  font-size: 13.86px;
+  font-size: 16.17px;
   color: rgba(0, 0, 0, 0.8);
   line-height: 1.65; }
 
 @media screen and (min-width: 58em) {
   html {
-    font-size: 18px; } }
+    font-size: 21px; } }
 
 body {
   font-family: inherit;
@@ -7535,7 +7535,7 @@ div.alert a {
   height: 70px;
   background: #3f51b5;
   box-shadow: 0 0.125rem 0.25rem 0 rgba(0, 0, 0, 0.11);
-  font-size: 13.86px;
+  font-size: 16.17px;
   position: fixed;
   top: 0;
   right: 0;
@@ -7564,7 +7564,7 @@ div.alert a {
         font-weight: bold !important;
         color: #8c9eff !important; }
   .navbar .dropdown-menu {
-    font-size: 13.86px; }
+    font-size: 16.17px; }
   .navbar .dropdown-item.active,
   .navbar .i18n-active {
     font-weight: bold;
