@@ -1,5 +1,5 @@
 ---
-title: First edition of Fundamentals of Data Science - Gdańsk
+title: The first edition of Fundamentals of Data Science - Gdańsk
 categories: ["Teaching"]
 date: 2020-01-14
 share: false
