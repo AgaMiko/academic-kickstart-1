@@ -27,7 +27,7 @@ author = "admin"
 # gradient_start = "#57b4e6"
 # gradient_end = "#185a9d"
 #614385
-gradient_end = "#36d1dc"
+gradient_end = "#3cc5dd"
 gradient_start = "#5b86e5"
   
   # Background image.
