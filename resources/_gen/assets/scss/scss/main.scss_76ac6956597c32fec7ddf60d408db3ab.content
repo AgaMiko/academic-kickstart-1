@@ -8848,7 +8848,7 @@ ul.toc-top {
   padding-left: 0; }
 
 #TableOfContents ul ul {
-  display: none; }
+  padding-left: 0.8rem; }
 
 #TableOfContents li {
   display: block; }
