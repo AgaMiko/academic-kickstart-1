@@ -1,12 +1,12 @@
 ---
-title: Semi-supervised learning in computer vision (date TBA)
+title: Self-supervised learning in computer vision (date TBA)
 event: Machine Learning Group Gdańsk meeting
 event_url: https://www.mlgdansk.pl/
 
 location: Gdańsk University of Technology
 
 summary: The date will be announced soon
-abstract: "**<center>The date of the talk will be announced soon</center>** </br>The field of semi-supervised learning is gaining more and more attention. This family of methods allows for unsupervised pretraining of neural networks that lead to better performance in the target tasks (classification, detection, etc). The skillful design of unsupervised task and loss function causes the network learning valuable features. During the talk, I will present the latest, efficient methods that lead to performance increase on many benchmark datasets"
+abstract: "**<center>The date of the talk will be announced soon</center>** </br>The field of self-supervised learning is gaining more and more attention. This family of methods allows for unsupervised pretraining of neural networks that lead to better performance in the target tasks (classification, detection, etc). The skillful design of unsupervised task and loss function causes the network learning valuable features. During the talk, I will present the latest, efficient methods that lead to performance increase on many benchmark datasets"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
