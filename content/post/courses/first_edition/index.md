@@ -9,7 +9,7 @@ image:
   focal_point: "Center"
   preview_only: True
 aliases:
-  - "/post/teaching/first_edition/"
+  - "/post/teaching/first_course/"
 ---
 
 The data science is a hot topic now, so along with [Piotr Chlebek](http://sharktime.com/en_About.html) and [CODE:ME](https://codeme.pl/) foundation we decided to organize a data science course. The course took place on 11-12.01.2020 in Gdańsk. The number of participants was limited, and the list of participants was full long before the date of the course. This shows a huge interest in data science and machine learning. The participants represented different professions, so it was a very interesting experience to teach them. During the course, there were many interesting discussions and great ideas about data science methods.
