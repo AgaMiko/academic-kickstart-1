@@ -20,14 +20,16 @@
   url = "#publications"
   weight = 40
 # 
- [[main]]
-   name = "Courses"
-   url = "#courses"
-   weight = 60
+
 [[main]]
   name = "Talks"
   url = "#talk"
   weight = 80
+  
+[[main]]
+	name = "Courses"
+	url = "#courses"
+	weight = 85
 
 [[main]]
   name = "Contact Me"
